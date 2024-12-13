@@ -274,3 +274,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'taxov:pirate_block'
 [13Dec2024 18:57:34.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wizzel was slain by Zombie
 [13Dec2024 19:00:08.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tuforwi lost connection: Disconnected
 [13Dec2024 19:00:08.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tuforwi left the game
+[13Dec2024 19:05:50.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [Take Aim]
+[13Dec2024 19:06:33.805] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tuforwi[/127.141.214.252:52699] logged in with entity id 48901 at (-654.9376575261217, -34.0, 576.3000000119209)
+[13Dec2024 19:06:33.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tuforwi joined the game
+[13Dec2024 19:11:37.988] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ForgeChocobo['Amber'/46575, l='ServerLevel[world]', x=-342.60, y=82.00, z=-1796.91] died: Amber was burnt to a crisp whilst fighting wizzel
