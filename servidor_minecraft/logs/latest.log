@@ -202,3 +202,59 @@ com.google.gson.JsonSyntaxException: Unknown item 'taxov:pirate_block'
 [13Dec2024 17:32:57.910] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5714 ms
 [13Dec2024 17:32:57.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.726s)! For help, type "help"
 [13Dec2024 17:32:57.968] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[13Dec2024 17:43:35.271] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: wizzel[/127.111.206.36:44227] logged in with entity id 66 at (-338.69999998807907, 87.7531999805212, -1789.9270876122073)
+[13Dec2024 17:43:35.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wizzel joined the game
+[13Dec2024 17:43:37.603] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2328ms or 46 ticks behind
+[13Dec2024 17:43:44.106] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: DragonflyEntity['Dragonfly'/375, l='ServerLevel[world]', x=-196.50, y=71.70, z=-1598.87]
+[13Dec2024 17:44:05.787] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Bee['Bee'/400, l='ServerLevel[world]', x=-489.69, y=64.19, z=-1987.78]
+[13Dec2024 17:44:05.789] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: DragonflyEntity['Dragonfly'/407, l='ServerLevel[world]', x=-356.41, y=87.49, z=-1987.25]
+[13Dec2024 17:44:52.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mosey[/127.96.34.32:42669] logged in with entity id 515 at (-367.7099929690004, 62.136490744893216, 6935.735905837967)
+[13Dec2024 17:44:52.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey joined the game
+[13Dec2024 17:44:54.572] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2147ms or 42 ticks behind
+[13Dec2024 17:46:05.208] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityCrow['Crow'/1014, l='ServerLevel[world]', x=-142.11, y=70.00, z=-1754.62]
+[13Dec2024 17:46:19.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Dec2024 17:46:19.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sds<--[HERE]
+[13Dec2024 17:51:45.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Beau (vehicle of wizzel) moved wrongly! 0.46845042720246965
+[13Dec2024 17:51:45.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Beau (vehicle of wizzel) moved wrongly! 0.46845042720246965
+[13Dec2024 18:02:07.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey has made the advancement [Pirate Tools]
+[13Dec2024 18:02:07.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey has made the advancement [Pirate]
+[13Dec2024 18:02:07.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey has made the advancement [Marine Armor]
+[13Dec2024 18:02:07.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey has made the advancement [Pirate Armor]
+[13Dec2024 18:02:07.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey has made the advancement [Ocean]
+[13Dec2024 18:02:07.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey has made the advancement [Marine Tools]
+[13Dec2024 18:02:07.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey has made the advancement [Sailor]
+[13Dec2024 18:03:31.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey has made the advancement [Diamonds!]
+[13Dec2024 18:11:42.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pierooo[/127.56.64.18:58633] logged in with entity id 16001 at (-522.1273375415011, 64.0, 4289.743481754125)
+[13Dec2024 18:11:42.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo joined the game
+[13Dec2024 18:12:18.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [Pirate Tools]
+[13Dec2024 18:12:18.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [Pirate]
+[13Dec2024 18:12:18.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [Marine Armor]
+[13Dec2024 18:12:18.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [Pirate Armor]
+[13Dec2024 18:12:18.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [Ocean]
+[13Dec2024 18:12:18.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [Marine Tools]
+[13Dec2024 18:12:18.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [Sailor]
+[13Dec2024 18:13:01.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [Diamonds!]
+[13Dec2024 18:15:26.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pierooo lost connection: Disconnected
+[13Dec2024 18:15:26.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo left the game
+[13Dec2024 18:15:31.858] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pierooo[/127.56.64.18:51121] logged in with entity id 18421 at (-539.511471400506, 65.0, 4550.62830273209)
+[13Dec2024 18:15:31.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo joined the game
+[13Dec2024 18:16:06.003] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/18451, l='ServerLevel[world]', x=-538.69, y=69.50, z=4564.57] died: Witch was slain by Pierooo
+[13Dec2024 18:16:20.901] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/18452, l='ServerLevel[world]', x=-541.70, y=67.50, z=4569.20] died: Witch was slain by Pierooo
+[13Dec2024 18:16:27.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey was slain by Mimic
+[13Dec2024 18:16:34.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <wizzel> xddddddddddddddddd
+[13Dec2024 18:16:42.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey fell from a high place
+[13Dec2024 18:18:29.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mosey lost connection: Disconnected
+[13Dec2024 18:18:29.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey left the game
+[13Dec2024 18:21:12.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Captain'/21529, l='ServerLevel[world]', x=-563.90, y=67.00, z=5096.69] died: Captain was slain by Pierooo
+[13Dec2024 18:21:14.244] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Crew'/21528, l='ServerLevel[world]', x=-563.47, y=67.00, z=5096.30] died: Crew was slain by Pierooo
+[13Dec2024 18:23:33.647] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/21531, l='ServerLevel[world]', x=-478.45, y=64.00, z=5101.70] died: Witch was slain by Pierooo
+[13Dec2024 18:23:38.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/21530, l='ServerLevel[world]', x=-470.80, y=67.50, z=5102.70] died: Witch was slain by Pierooo
+[13Dec2024 18:27:48.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[13Dec2024 18:27:48.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sds<--[HERE]
+[13Dec2024 18:29:22.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has completed the challenge [Free Willy]
+[13Dec2024 18:29:23.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [Alex's Caves]
+[13Dec2024 18:30:08.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pierooo has made the advancement [Once Upon a Cave]
+[13Dec2024 18:32:47.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/25877, l='ServerLevel[world]', x=-519.07, y=67.00, z=5637.11] died: Witch was slain by Pierooo
+[13Dec2024 18:33:00.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/25932, l='ServerLevel[world]', x=-513.30, y=65.00, z=5626.24] died: Witch was slain by Pierooo
+[13Dec2024 18:40:43.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dazzleryf[/127.120.32.115:59225] logged in with entity id 31151 at (-353.6971014344649, 86.0, -1790.483176904061)
+[13Dec2024 18:40:43.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dazzleryf joined the game
