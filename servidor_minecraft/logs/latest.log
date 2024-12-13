@@ -266,3 +266,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'taxov:pirate_block'
 [13Dec2024 18:49:03.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [13Dec2024 18:49:23.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dazzleryf> PIERO MARICA
 [13Dec2024 18:52:36.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tuforwi has made the advancement [Let's Get To Work]
+[13Dec2024 18:55:43.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tuforwi has made the advancement [Sweet Dreams]
+[13Dec2024 18:56:08.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey was shot by Skeleton
+[13Dec2024 18:56:15.469] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mosey lost connection: Disconnected
+[13Dec2024 18:56:15.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey left the game
+[13Dec2024 18:56:35.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dazzleryf has made the advancement [Voluntary Exile]
+[13Dec2024 18:57:34.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: wizzel was slain by Zombie
+[13Dec2024 19:00:08.316] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tuforwi lost connection: Disconnected
+[13Dec2024 19:00:08.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tuforwi left the game
