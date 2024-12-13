@@ -258,3 +258,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'taxov:pirate_block'
 [13Dec2024 18:33:00.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Witch'/25932, l='ServerLevel[world]', x=-513.30, y=65.00, z=5626.24] died: Witch was slain by Pierooo
 [13Dec2024 18:40:43.018] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: dazzleryf[/127.120.32.115:59225] logged in with entity id 31151 at (-353.6971014344649, 86.0, -1790.483176904061)
 [13Dec2024 18:40:43.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: dazzleryf joined the game
+[13Dec2024 18:45:27.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mosey[/127.96.34.32:60977] logged in with entity id 34447 at (1668.512499988079, 67.0, 6772.45154669403)
+[13Dec2024 18:45:27.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey joined the game
+[13Dec2024 18:47:26.813] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tuforwi[/127.141.214.252:57517] logged in with entity id 35972 at (-606.5707136311405, -9.0, 490.2063931978257)
+[13Dec2024 18:47:26.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tuforwi joined the game
+[13Dec2024 18:48:59.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mosey has made the advancement [Getting an Upgrade]
+[13Dec2024 18:49:03.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 18:49:23.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <dazzleryf> PIERO MARICA
+[13Dec2024 18:52:36.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tuforwi has made the advancement [Let's Get To Work]

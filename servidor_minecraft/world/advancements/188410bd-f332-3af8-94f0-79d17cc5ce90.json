@@ -852,9 +852,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-13 18:51:35 +0000",
       "minecraft:skeleton": "2024-12-13 01:48:07 +0000",
       "minecraft:spider": "2024-12-13 02:05:13 +0000",
       "minecraft:creeper": "2024-12-13 02:10:39 +0000",
+      "minecraft:witch": "2024-12-13 18:43:56 +0000",
       "minecraft:zombie": "2024-12-13 01:21:37 +0000",
       "minecraft:drowned": "2024-12-13 04:32:11 +0000"
     },

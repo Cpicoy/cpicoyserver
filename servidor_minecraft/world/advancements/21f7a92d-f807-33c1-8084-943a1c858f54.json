@@ -754,7 +754,9 @@
     "criteria": {
       "cooked_porkchop": "2024-12-13 01:35:06 +0000",
       "cooked_beef": "2024-12-13 00:30:06 +0000",
+      "baked_potato": "2024-12-13 18:46:34 +0000",
       "apple": "2024-12-13 01:23:42 +0000",
+      "pumpkin_pie": "2024-12-13 18:44:27 +0000",
       "mutton": "2024-12-13 00:38:11 +0000",
       "bread": "2024-12-13 00:39:16 +0000",
       "golden_apple": "2024-12-13 01:30:25 +0000",
@@ -2223,6 +2225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 18:47:42 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2024-12-13 18:29:22 +0000"
@@ -2253,6 +2261,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 18:47:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-13 18:15:56 +0000"
@@ -2277,9 +2291,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-13 18:47:42 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2024-12-13 18:29:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 18:47:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-13 18:47:42 +0000"
     },
     "done": true
   },
@@ -2292,6 +2324,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-13 18:16:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-13 18:47:42 +0000"
     },
     "done": true
   },
